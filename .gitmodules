@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Chris-Mathias/final-mission.git
+[submodule "api"]
+	path = api
+	url = https://github.com/ChristianGCa/final_mission_backend.git
